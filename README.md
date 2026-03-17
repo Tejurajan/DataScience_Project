@@ -1,5 +1,13 @@
 # DataScience_Project
+
 Online Shoppers Purchasing Intention Prediction
+
+Team Members:
+Tejashvini A
+Lalitalochana P
+
+Introduction 
+
 This project focuses on analyzing user browsing behavior on an e-commerce platform and predicting whether a visitor will make a purchase. By leveraging machine learning techniques, we identify key factors that influence purchasing decisions and provide insights that can help improve conversion rates.
 
 Dataset
