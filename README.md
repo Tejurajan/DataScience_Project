@@ -15,3 +15,9 @@ Features: 18
 Target Variable: Revenue (True/False)
 
 The dataset includes user interaction details such as page visits, time spent on pages, bounce rates, exit rates, and visitor type.
+
+Results
+Model	Accuracy
+Logistic Regression	0.88
+Decision Tree	0.85
+Random Forest	0.90
